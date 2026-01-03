@@ -1,8 +1,8 @@
 # Hi there, I'm Dhruv Nagal! 👋
 ### Aspiring Data Scientist | Python Enthusiast | Future ML Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhruv-nagal-592b30249/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:dhruv.nagal2025@gmail.com)
 
 ---
 
