@@ -88,9 +88,9 @@ I believe in solving real-world problems through intelligent, scalable, and impa
 
 # 🚀 Featured Projects
 
-## 🎓 SnapClass – AI Powered Attendance System
+## 🎓 SnapClass – AI-Powered Smart Attendance System
 
-An end-to-end AI-powered Attendance Management System using Facial Recognition and Voice Biometrics.
+An intelligent attendance management system that combines **Facial Recognition**, **Voice Biometrics**, and a cloud-based backend for secure and automated attendance.
 
 ### Features
 
@@ -105,11 +105,11 @@ An end-to-end AI-powered Attendance Management System using Facial Recognition a
 
 ### 🔗 Live Demo
 
-Landing Page
+**Landing Page**
 
 https://snap-class-lading-page.vercel.app/
 
-Application
+**Application**
 
 https://snapclass-ai-attendancesystem-hbqlbx6owdhwh2exry5noc.streamlit.app/
 
@@ -117,49 +117,48 @@ https://snapclass-ai-attendancesystem-hbqlbx6owdhwh2exry5noc.streamlit.app/
 
 ## 🤖 AI Personal Assistant
 
-An intelligent assistant powered by Groq Large Language Models capable of:
+A conversational AI assistant powered by **Groq Large Language Models** with a Flask backend.
 
-- Conversational Question Answering
-- Email Summarization
-- Context-aware Responses
-- Flask Backend
+### Features
+
+- 💬 Conversational AI
+- 📄 Document Question Answering
+- 📧 Email Summarization
+- 🧠 Context-Aware Responses
+- ⚡ Groq LLM Integration
+- 🌐 Flask-based Web Application
+
+---
+
+## 🌦️ Weather Trend Forecasting
+
+An end-to-end Data Science project focused on weather analysis, temperature prediction, and time series forecasting using machine learning and statistical modeling.
+
+### Highlights
+
+- 🧹 Data Cleaning & Preprocessing
+- 📊 Exploratory Data Analysis
+- ⚙️ Feature Engineering
+- 🤖 Temperature Prediction using:
+  - Linear Regression
+  - Decision Tree
+  - Random Forest
+  - XGBoost
+- 📈 Time Series Forecasting using ARIMA
+- 🏆 Best Model: Random Forest (R² = 0.963)
 
 ---
 
 ## 🎮 Flappy Bird AI Agent
 
-Implemented a Deep Q-Network (DQN) agent capable of learning Flappy Bird autonomously using:
+A Deep Reinforcement Learning project where an AI agent learns to play Flappy Bird autonomously using Deep Q-Networks (DQN).
 
-- Deep Reinforcement Learning
-- Experience Replay
-- Target Networks
-- PyTorch
+### Features
 
----
-
-## 📊 Predictive Health Risk Classification
-
-Developed a supervised Machine Learning model on 9,800+ records involving:
-
-- Data Cleaning
-- EDA
-- Feature Engineering
-- Classification
-- ROC & Cross Validation
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Advanced Deep Learning
-- MLOps
-- Docker
-- Kubernetes
-
----
+- 🧠 Deep Reinforcement Learning
+- 🎯 Experience Replay
+- 🔄 Target Networks
+- ⚡ PyTorch Implementation
 
 # 📈 GitHub Stats
 
